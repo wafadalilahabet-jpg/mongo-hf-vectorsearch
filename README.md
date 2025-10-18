@@ -20,7 +20,7 @@ This project demonstrates how to:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/mongo-hf-vectorsearch.git
+git clone https://github.com/wafadalilahabet-jpg/mongo-hf-vectorsearch.git
 cd mongo-hf-vectorsearch
 ```
 
@@ -107,4 +107,5 @@ mongo-hf-vectorsearch/
 - Type: vector
 - Dimensions: 384 (for `all-MiniLM-L6-v2`)
 - Similarity: cosine
+
 
